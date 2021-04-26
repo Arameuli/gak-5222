@@ -1,0 +1,5 @@
+name1 53 company1 country1 type1 ingredients1 120 yes
+name2 32 company2 country2 type2 ingredients2 250 no
+name3 12 company3 country3 type3 ingredients3 43 no
+name4 63 company4 country4 type4 ingredients4 95 yes
+name5 43 company5 country5 type5 ingredients5 15 no

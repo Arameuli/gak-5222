@@ -1,0 +1,6 @@
+﻿  Drinkks.cpp
+C:\Users\nikas\source\repos\Drinkks\Drinkks.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\Drinkks\Drinkks.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\Drinkks\Drinkks.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\Drinkks\Drinkks.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  Drinkks.vcxproj -> C:\Users\nikas\source\repos\Drinkks\Debug\Drinkks.exe
